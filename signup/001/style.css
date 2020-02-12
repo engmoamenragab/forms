@@ -19,8 +19,7 @@ section {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  box-shadow: 1px 1px 5px #dcdde1;
-  border: 1px solid #353b48;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, .15);
   border-radius: 10px;
 }
 form {
