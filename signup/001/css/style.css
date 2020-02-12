@@ -56,6 +56,7 @@ input {
 input:focus {
   box-shadow: 2px 2px 5px #487eb0,
               -2px -2px 5px #487eb0;
+  border-left: 3px solid #e84118;
 }
 
 input:focus::placeholder {
