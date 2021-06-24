@@ -1,3 +1,6 @@
 [submodule "signin-form-001"]
 	path = signin-form-001
 	url = https://github.com/engmoamenragab/signin-form-001
+[submodule "signup-form-001"]
+	path = signup-form-001
+	url = https://github.com/engmoamenragab/signup-form-001
